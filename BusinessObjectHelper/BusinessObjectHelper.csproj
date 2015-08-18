@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E452DAE4-120D-42B7-8A66-F9DF9EE99336}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BusinessObjectHelper</RootNamespace>
+    <AssemblyName>BusinessObjectHelper</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddressType.cs" />
+    <Compile Include="AddressTypeList.cs" />
+    <Compile Include="CategoryType.cs" />
+    <Compile Include="CategoryTypeList.cs" />
+    <Compile Include="Class.cs" />
+    <Compile Include="ClassList.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="Forum.cs" />
+    <Compile Include="ForumList.cs" />
+    <Compile Include="StudentComment.cs" />
+    <Compile Include="StudentCommentList.cs" />
+    <Compile Include="EmailType.cs" />
+    <Compile Include="EmailTypeList.cs" />
+    <Compile Include="Event.cs" />
+    <Compile Include="HeaderData.cs" />
+    <Compile Include="PhoneType.cs" />
+    <Compile Include="PhoneTypeList.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="ProgramList.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Student.cs" />
+    <Compile Include="StudentAddress.cs" />
+    <Compile Include="StudentAddressList.cs" />
+    <Compile Include="StudentClass.cs" />
+    <Compile Include="StudentClassList.cs" />
+    <Compile Include="StudentEmail.cs" />
+    <Compile Include="StudentEmailList.cs" />
+    <Compile Include="StudentList.cs" />
+    <Compile Include="StudentPhone.cs" />
+    <Compile Include="StudentPhoneList.cs" />
+    <Compile Include="Zipcode.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DatabaseHelper\DatabaseHelper.csproj">
+      <Project>{EAE0B4ED-920A-4F50-8107-9786297AEC6C}</Project>
+      <Name>DatabaseHelper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmailHelper\EmailHelper.vbproj">
+      <Project>{847C8292-C805-46C6-AC84-BA23AC7469F6}</Project>
+      <Name>EmailHelper</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\BusinessObjectHelper\bin\Debug\BusinessObjectHelper.dll
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\BusinessObjectHelper\bin\Debug\BusinessObjectHelper.pdb
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\BusinessObjectHelper\bin\Debug\DatabaseHelper.dll
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\BusinessObjectHelper\bin\Debug\EmailHelper.dll
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\BusinessObjectHelper\bin\Debug\ConfigurationHelper.dll
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\BusinessObjectHelper\bin\Debug\DatabaseHelper.pdb
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\BusinessObjectHelper\bin\Debug\EmailHelper.pdb
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\BusinessObjectHelper\bin\Debug\EmailHelper.xml
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\BusinessObjectHelper\bin\Debug\ConfigurationHelper.pdb
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\BusinessObjectHelper\obj\Debug\BusinessObjectHelper.csprojResolveAssemblyReference.cache
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\BusinessObjectHelper\obj\Debug\BusinessObjectHelper.dll
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\BusinessObjectHelper\obj\Debug\BusinessObjectHelper.pdb

@@ -1,0 +1,7 @@
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\DatabaseHelper\bin\Debug\DatabaseHelper.dll
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\DatabaseHelper\bin\Debug\DatabaseHelper.pdb
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\DatabaseHelper\bin\Debug\ConfigurationHelper.dll
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\DatabaseHelper\bin\Debug\ConfigurationHelper.pdb
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\DatabaseHelper\obj\Debug\DatabaseHelper.csprojResolveAssemblyReference.cache
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\DatabaseHelper\obj\Debug\DatabaseHelper.dll
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\DatabaseHelper\obj\Debug\DatabaseHelper.pdb

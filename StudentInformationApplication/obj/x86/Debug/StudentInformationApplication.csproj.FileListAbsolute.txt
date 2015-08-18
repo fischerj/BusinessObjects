@@ -1,0 +1,28 @@
+C:\Users\jfischer\AppData\Local\Temporary Projects\StudentInformationApplication\bin\Debug\DataSystem.config
+C:\Users\jfischer\AppData\Local\Temporary Projects\StudentInformationApplication\bin\Debug\StudentInformationApplication.exe
+C:\Users\jfischer\AppData\Local\Temporary Projects\StudentInformationApplication\bin\Debug\StudentInformationApplication.pdb
+C:\Users\jfischer\AppData\Local\Temporary Projects\StudentInformationApplication\obj\x86\Debug\StudentInformationApplication.frmTest.resources
+C:\Users\jfischer\AppData\Local\Temporary Projects\StudentInformationApplication\obj\x86\Debug\StudentInformationApplication.Properties.Resources.resources
+C:\Users\jfischer\AppData\Local\Temporary Projects\StudentInformationApplication\obj\x86\Debug\StudentInformationApplication.csproj.GenerateResource.Cache
+C:\Users\jfischer\AppData\Local\Temporary Projects\StudentInformationApplication\obj\x86\Debug\StudentInformationApplication.exe
+C:\Users\jfischer\AppData\Local\Temporary Projects\StudentInformationApplication\obj\x86\Debug\StudentInformationApplication.pdb
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\bin\Debug\DataSystem.config
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\bin\Debug\StudentInformationApplication.exe.config
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\bin\Debug\StudentInformationApplication.exe
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\bin\Debug\StudentInformationApplication.pdb
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\bin\Debug\BusinessObjectHelper.dll
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\bin\Debug\DatabaseHelper.dll
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\bin\Debug\EmailHelper.dll
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\bin\Debug\ConfigurationHelper.dll
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\bin\Debug\BusinessObjectHelper.pdb
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\bin\Debug\DatabaseHelper.pdb
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\bin\Debug\EmailHelper.pdb
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\bin\Debug\EmailHelper.xml
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\bin\Debug\ConfigurationHelper.pdb
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\obj\x86\Debug\StudentInformationApplication.csprojResolveAssemblyReference.cache
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\obj\x86\Debug\StudentInformationApplication.frmEmailType.resources
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\obj\x86\Debug\StudentInformationApplication.frmTest.resources
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\obj\x86\Debug\StudentInformationApplication.Properties.Resources.resources
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\obj\x86\Debug\StudentInformationApplication.csproj.GenerateResource.Cache
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\obj\x86\Debug\StudentInformationApplication.exe
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\StudentInformationApplication\obj\x86\Debug\StudentInformationApplication.pdb

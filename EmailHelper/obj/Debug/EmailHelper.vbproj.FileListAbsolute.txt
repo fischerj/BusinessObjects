@@ -1,0 +1,8 @@
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\EmailHelper\bin\Debug\EmailHelper.dll
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\EmailHelper\bin\Debug\EmailHelper.pdb
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\EmailHelper\bin\Debug\EmailHelper.xml
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\EmailHelper\obj\Debug\EmailHelper.Resources.resources
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\EmailHelper\obj\Debug\EmailHelper.vbproj.GenerateResource.Cache
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\EmailHelper\obj\Debug\EmailHelper.dll
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\EmailHelper\obj\Debug\EmailHelper.xml
+C:\Users\jfischer\documents\visual studio 2010\Projects\StudentInformationApplication\EmailHelper\obj\Debug\EmailHelper.pdb
